@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\app\\Http\\Requests",
+    "\\app\\Models",
+    "\\database",
+    "\\database\\migrations",
+    "\\routes"
+  ],
+  "SelectedNode": "\\app\\Http\\Requests\\StoreAlunoRequest.php",
+  "PreviewInSolutionExplorer": false
+}
